@@ -147,6 +147,11 @@ image is recognized as ice bear, polar bear, Ursus Maritimus, Thalarctos maritim
     https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-cat-dog.md#processing-all-the-test-images
     
 
+## Citation
+https://chatgpt.com/ \
+https://student.idtech.com/courses/331/pages/write-your-own-classification-program?module_item_id=26826\
+https://student.idtech.com/courses/331/pages/old-re-training-image-classification-models-2?module_item_id=26828\
+https://www.kaggle.com/datasets/gpiosenka/us-license-plates-image-classification \
 
 
 
