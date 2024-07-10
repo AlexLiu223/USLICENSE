@@ -1,7 +1,6 @@
-# Project Name
+# Identify the State of US using licenses
 
- Add short description of project here > 
-
+ This project is created in 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
