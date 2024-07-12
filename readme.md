@@ -153,35 +153,6 @@ https://student.idtech.com/courses/331/pages/write-your-own-classification-progr
 https://student.idtech.com/courses/331/pages/old-re-training-image-classification-models-2?module_item_id=26828\
 https://www.kaggle.com/datasets/gpiosenka/us-license-plates-image-classification \
 
+## This project also has a Youtube video linked. Here is the link:\
+https://www.youtube.com/watch?v=ZI4-xDR337M
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[View a video explanation here](video link)
